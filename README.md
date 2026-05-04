@@ -1,4 +1,4 @@
-Sea Monster Crowdfunding
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: Olabode Jimoh
 
@@ -27,7 +27,7 @@ One challenge was organizing the game data so the page could update cleanly when
 
 ## License
 
-    Copyright 2026 Olabode jimoh
+    Copyright 2026 Olabode Jimoh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
