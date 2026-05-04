@@ -1,6 +1,6 @@
-# Sea Monster Crowdfunding
+Sea Monster Crowdfunding
 
-Submitted by: **Jimbol**
+Submitted by: Olabode Jimoh
 
 Sea Monster Crowdfunding is a web project that displays information about the games funded by Sea Monster Crowdfunding, including funding status, contribution stats, and filtering controls.
 
@@ -27,7 +27,7 @@ One challenge was organizing the game data so the page could update cleanly when
 
 ## License
 
-    Copyright 2026 Jimbol
+    Copyright 2026 Olabode jimoh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
