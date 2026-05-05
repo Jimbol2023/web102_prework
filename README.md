@@ -3,6 +3,7 @@
 Submitted by: Olabode Jimoh
 
 Sea Monster Crowdfunding is a web project that displays information about the games funded by Sea Monster Crowdfunding, including funding status, contribution stats, and filtering controls.
+
 Time spent: 32 hours spent in total
 ## Required Features
 
