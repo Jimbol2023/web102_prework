@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-[Watch the video walkthrough on Loom](https://www.loom.com/share/c4167b86a5de49728c266e8e31123d0e)
+[Watch the video walkthrough on Loom](https://www.loom.com/share/78d1e4be252c430dbe32c8e23c16d33a)
 
 ## Notes
 
